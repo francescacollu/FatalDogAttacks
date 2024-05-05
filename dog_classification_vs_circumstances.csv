@@ -1,0 +1,522 @@
+FatalityId,Circumstances,DogClassification
+1,The young girl was attacked by several stray dogs and declared dead upon arrival at the hospital.,Stray Dog
+2,The victim had to intervene in a dog fight; the attacking dog was not a roaming dog.,Family Dog
+3,Two Pit Bulls killed their 78-year-old owner while he slept.,Family Dog
+4,The dog fatally attacked the mother of the owner of the dog.,Family Dog
+5,The victim was attacked by his friend's dogs.,Not Family
+6,The pet attacked its owner in her house; she died from blood loss.,Family Dog
+7,The woman contracted rabies from a puppy she was taking care of.,Family Dog
+8,The victim was mauled by her family’s pit bull terriers.,Family Dog
+9,The woman was attacked and drowned; the specific ownership of the dog is unclear.,Not Family
+10,A Golden Retriever owned by the victim's family attacked him.,Family Dog
+11,"The family dog named Ruben attacked its owner, leading to his death.",Family Dog
+12,"The injury was from a minor bite by the family pet, causing an infection.",Family Dog
+13,The victim was attacked by stray dogs.,Not Family
+14,"The dogs that attacked were not registered, indicating they may be strays.",Not Family
+15,The boy was attacked by dogs that were not specified as family pets.,Not Family
+16,The pig hunting dog involved in the attack was a family pet.,Family Dog
+17,The dog that mauled the five-year-old boy was a family friend’s dog.,Not Family
+18,The family dog mauled the baby.,Family Dog
+19,The dogs that attacked while being minding them were not owned by the victim.,Not Family
+20,"The dogs involved in the attack were not registered, indicating they were not family pets.",Not Family
+21,The son’s dog attacked the wheelchair user.,Family Dog
+22,The dog attacked its owner following an epileptic seizure.,Family Dog
+23,The couple’s dog attacked one of them; both suffered severe injuries.,Family Dog
+24,"The family’s dogs were involved in the attack, leading to significant injuries.",Family Dog
+25,The family dog that attacked the baby was owned by a family member.,Family Dog
+26,The victim was attacked by their own family dog.,Family Dog
+27,The victim was attacked by her own aggressive dog.,Family Dog
+28,The dog named Kingston that attacked the boy was a family pet.,Family Dog
+29,"The dog was not registered, suggesting it was not a family pet.",Not Family
+30,The family dog attacked the baby while she was in her cot.,Family Dog
+31,"The woman was attacked by a stray dog named ""Kim"" that escaped from a garden.",Stray Dog
+32,The woman was killed by her neighbor’s dogs; the dogs were American Staffordshire Terriers.,Not Family
+33,"The victim was killed by service dogs named ""Hati"" and ""Ragna"" at their kennel.",Not Family
+34,"The dog ""Joey"" broke away from its owner and attacked a child, leading to death.",Family Dog
+35,The woman was bitten by her neighbor's dog and died from organ failure.,Not Family
+36,"The woman was attacked by her son's two dogs named ""Aaron"" and ""Tico"".",Family Dog
+37,"The father's dog ""Odin"" attacked the victim, a child, leading to her death.",Family Dog
+38,The 4-month-old child was killed by the family dog.,Family Dog
+39,The man was attacked by dogs he knew; three dogs were shot.,Not Family
+40,The man was attacked by his own dog and died from the injuries.,Family Dog
+41,The child was attacked by the family dog; he did not survive.,Family Dog
+42,The young man was killed by his own dog during an epileptic seizure.,Family Dog
+43,The child was attacked by the family dog while sleeping and did not survive.,Family Dog
+44,The man was attacked by a loose dog while trying to save his own dog.,Not Family
+45,The 11-month-old baby was attacked by a dog at her aunt and uncle’s house.,Not Family
+46,The pair was attacked while trying to remove porcupine quills from one of their dogs.,Not Family
+47,"The woman was attacked by her son's dogs, and her daughter was also injured.",Family Dog
+48,The owner was attacked and killed by his own dog while feeding it.,Family Dog
+49,The girl was attacked by the family dog in the living room.,Family Dog
+50,The woman was bitten by dogs while fishing on Ilha Grande and died before reaching the hospital.,Not Family
+51,The boy was attacked by the family dog shortly after it was bought.,Family Dog
+52,The victim was fatally attacked while trying to break up a fight between her two dogs.,Family Dog
+53,The child was attacked by the family dog and died at the hospital.,Family Dog
+54,The woman was attacked by a neighbor’s escaped pit bull; she died from her injuries.,Not Family
+55,The 10-month-old child was attacked by the family dog while visiting his grandmother.,Family Dog
+56,The 3-month-old baby was killed by the family dog.,Family Dog
+57,The dog attacked the child while she was on her aunt's lap.,Family Dog
+58,"One dog attacked another, and the owner was bitten while trying to stop the fight.",Not Family
+59,The man was attacked by escaped dogs while resting on the sidewalk and died from his injuries.,Stray Dog
+60,The family dog attacked the victim in the house.,Family Dog
+61,The victim was killed by her son's dogs.,Family Dog
+62,A woman died after being attacked by three dogs. The dogs were confiscated after the attack.,Stray Dog
+63,The woman was attacked by a neighbor's dog while tending to plants in her garden.,Family Dog
+64,The woman was attacked by dogs that entered her room while she was bedridden.,Family Dog
+65,A woman was attacked by a dog belonging to a neighbor who allegedly left the gate open.,Stray Dog
+66,The man responsible for feeding the dog was attacked and died. The dog did not attack his own female dog of the same breed.,Family Dog
+67,The man was found in the morning; neighbors heard loud barking and suspect he was attacked when entering the property.,Stray Dog
+68,"The victim was attacked on Nov 13, 2021, and died on Nov 16.",Unknown
+69,"A neighbor's loose dog attacked a boy, who was found dead in front of the neighbor's house.",Stray Dog
+70,A family pet bit a child in the head following a dog fight at home; the actual type of dog was not disclosed.,Family Dog
+71,A girl was playing with the family dog in the garden when she was attacked and died from head injuries.,Family Dog
+72,"The victim was attacked by six dogs she was familiar with, suffering severe injuries and fractures.",Family Dog
+73,A family pet attacked two brothers; the younger boy died from severe neck and head injuries.,Family Dog
+74,The man was attacked by stray dogs while out for a walk and suffered severe facial injuries.,Stray Dog
+75,The victim was looking after dogs and was attacked by them along with two other boys. The dogs were shot.,Family Dog
+76,The family dog attacked 26-day-old twins; one died on arrival and the other at the hospital.,Family Dog
+77,The boy was attacked by dogs while retrieving a kite; he did not survive.,Family Dog
+78,The dog escaped and attacked an elderly man working on a nearby property; a neighbor was also attacked.,Stray Dog
+79,A child was bitten on the head by the family dog and died; the dog had known the child since birth.,Family Dog
+80,The woman was attacked by her own dog and died; neighbors heard her screams.,Family Dog
+81,A 27-day-old baby was attacked by the family dog and died.,Family Dog
+82,"A 3-year-old family dog attacked a girl, who died at the hospital.",Family Dog
+83,"The woman was attacked by her dogs, one of which was described as a Fila; she died at the scene.",Family Dog
+84,The woman was attacked on a farm and died at the hospital.,Unknown
+85,A 17-day-old baby died after being attacked in her stroller by the family dog named Rambo.,Family Dog
+86,The dog owner was attacked by at least one of his eight dogs; the dogs were shot by police.,Family Dog
+87,Payne was attacked by dogs and died at the hospital; it is unknown if the dogs were euthanized.,Stray Dog
+88,Bielby was attacked by untethered dogs while collecting firewood and died shortly after; the dogs were euthanized.,Stray Dog
+89,"McDay was bitten to death by a dog, which was euthanized shortly after.",Stray Dog
+90,Baker was killed while trying to protect his pet dog from other dogs; the attacking dogs were presumably euthanized.,Stray Dog
+91,Richardson was attacked by several dogs from a nearby village and died from blood loss and shock; at least nine dogs were euthanized.,Stray Dog
+92,Four Inuit men were attacked by sled dogs while drifting on ice; the outcome of the dogs is unknown.,Family Dog
+93,DeJersey's dog severed her jugular vein while she was having a seizure; the dog was euthanized.,Family Dog
+94,Tuccaro was mauled by five dogs while exercising them; the dogs were shot by a constable.,Family Dog
+95,Scott was attacked by tethered dogs; the dogs were euthanized by police.,Stray Dog
+96,Mason was mauled by four loose dogs; it is unknown if the dogs were euthanized.,Stray Dog
+97,Monaghan was bitten on the neck by the family dog while playing; the dog was euthanized for a rabies test.,Family Dog
+98,Sirosky was bitten by a tethered dog; it is unknown if the dog was euthanized.,Stray Dog
+99,Wootten was attacked by dogs on a sled dog trail; the dogs were beaten off with an axe.,Stray Dog
+100,Beardy was attacked by dogs near the lakeshore and died; both dogs were euthanized.,Stray Dog
+101,Qurruo was mauled by a tethered dog; it is unknown if the dog was euthanized.,Stray Dog
+102,McNeil was mauled by dogs while crossing the street; all dogs were euthanized.,Unknown
+103,Sackenay was attacked by dogs after falling asleep on a snowbank; she died from shock and exposure.,Stray Dog
+104,"Sembsmoen-Moses was found in a dog kennel; he likely died from a mauling, and one dog was euthanized.",Stray Dog
+105,Nidipchie was attacked by dogs during a sled dog race; the dogs were euthanized.,Stray Dog
+106,A child was attacked by loose dogs; it is unknown if the dogs were euthanized.,Stray Dog
+107,Cadorette was bitten by a neighbor's loose dog and died; it is unknown if the dog was euthanized.,Stray Dog
+108,Apostolos was mauled by his family's watchdogs and neighbor's dogs; all dogs were euthanized.,Family Dog
+109,A child was attacked by dogs after climbing under a fence; it is unknown if the dogs were euthanized.,Stray Dog
+110,Nanninga was attacked by two dogs on a country road; both dogs were euthanized.,Stray Dog
+111,Tastine was found deceased outside her residence; it is unknown if the dogs were euthanized.,Stray Dog
+112,Witowski was attacked by her grandparents' dog; the dog was euthanized by her grandfather.,Family Dog
+113,Tremblay-Juneau was bitten by a neighbor's watchdog; the dog was euthanized and tested negative for rabies.,Stray Dog
+114,D'Amboise was bitten by the family's breeding dog; the dog and her puppies were euthanized.,Family Dog
+115,Purtill was attacked by two dogs at a campground; both dogs were euthanized.,Stray Dog
+116,Miller was mauled by her three dogs; it is unknown if they were euthanized.,Family Dog
+117,"Koltai was attacked by the family dog, Rufus; Rufus was euthanized.",Family Dog
+118,Angmarlik was attacked by tethered dogs while trying to feed them; the dogs were euthanized.,Stray Dog
+119,Whitehead was mauled by dogs on an isolated road; all dogs were euthanized.,Not Family
+120,"Needham was bitten by the family's male dog, Zingaro; it is unknown if Zingaro was euthanized.",Family Dog
+121,Peters attacked by roommates' dogs; dogs euthanized.,Family Dog
+122,Forsyth attacked by uncle's unneutered dogs; both dogs euthanized.,Not Family
+123,Over 100 stray dogs euthanized in response to McKay's death.,Stray Dog
+124,"Blouin mauled by father's dogs; one euthanized by authorities, others by father.",Family Dog
+125,Reynolds' daughter killed by pitbull; initially charged mother exonerated.,Unknown
+126,Keenatch attacked by tethered dog; dog euthanized by owner.,Family Dog
+127,"King attacked by family's dog, Tank; Tank euthanized by father.",Family Dog
+128,Tikivik mauled and partially eaten by sled dogs; all euthanized.,Stray Dog
+129,"Trempe bitten by neighbor's dog, Mosley; Mosley euthanized by owners.",Not Family
+130,Gauntlet and Obed attacked by sled dogs; seven out of eight dogs euthanized.,Stray Dog
+131,Frogg bitten by stray dogs; seven euthanized.,Stray Dog
+132,Child died from broken neck after neighbor's dog attack; dog euthanized.,Not Family
+133,Boudreau partially wrapped in dog's tether; cause of death was dog bite to jugular vein.,Unknown
+134,Lockhart suffered severe head and neck injuries; dog euthanized.,Family Dog
+135,Alook attacked by five dogs; residents euthanized them.,Stray Dog
+136,Sibthorpe attacked by Rottweiler and Labrador; both dogs euthanized.,Not Family
+137,Waddell mauled by Clark's dogs; all four dogs euthanized.,Not Family
+138,Boy attacked by grandmother's dogs; all involved euthanized.,Family Dog
+139,Anger attacked by Fontaine's and Babee's dogs; all four dogs euthanized.,Not Family
+140,Martin attacked by his own dog; dog euthanized.,Family Dog
+141,Sayisi Dene child bitten by dogs; one euthanized by resident.,Stray Dog
+142,Bird found on neighbor's property; both dogs involved euthanized.,Stray Dog
+143,Loonskin found after dog attack; two involved dogs euthanized.,Family Dog
+144,Cree child mauled by dogs; at least four dogs euthanized.,Stray Dog
+145,Edwards mauled by grandparents' dog; dog euthanized.,Family Dog
+146,Iron killed by three loose dogs in Canoe Lake; all euthanized.,Stray Dog
+147,Akpalialuk killed by 3 sled dogs; all euthanized.,Stray Dog
+148,Infant attacked by family dogs; at least one dog euthanized.,Family Dog
+149,Baby died after attack by family dog; dog euthanized.,Family Dog
+150,Hernetier-Clark attacked by grandparents' friends' dogs; both dogs euthanized.,Not Family
+151,Tssessaze attacked by community member's dogs; both dogs euthanized.,Not Family
+152,Man attacked by 2 dogs while purchasing a generator; dogs were euthanized.,Not Family
+153,Uqaituk mauled by a chained sled dog; dog euthanized.,Stray Dog
+154,Matthew Brigmantas attacked by a dog; coroner found a medical emergency was the cause of death. Dog euthanized.,Unknown
+155,Shane Glada killed by four stray dogs; dogs were feral or semi-domesticated.,Stray Dog
+156,Green killed by a family member's dog tied in a backyard.,Family Dog
+157,4-year-old girl mauled and killed by an improperly tied dog.,Family Dog
+158,Victim killed by neighbor's escaped dog; dog previously had a muzzle.,Not Family
+159,Eaglestick attacked and killed by a dog while walking home.,Unknown
+160,"Andrew Kochut died after a seizure; girlfriend's dog attacked him, but cause of death not attributed to dog.",Unknown
+161,Cameron mauled by grandparents' dogs; dogs had prior attack history.,Family Dog
+162,Lloyd killed by her own dog while protecting her granddaughter; dog euthanized.,Family Dog
+163,Child dragged away and killed by dogs; several dogs euthanized by community members.,Stray Dog
+164,Megan Milner killed by her pitbull; dog was known to be aggressive. Dog euthanized.,Family Dog
+165,Man killed by friend's pitbull; dog euthanized.,Not Family
+166,Fisher attacked by family friend's dogs; all dogs euthanized.,Not Family
+167,Victim found dead; initially thought to be a bear attack but confirmed as a dog attack later. Dogs euthanized.,Stray Dog
+168,Noel Thomas killed by neighbor's dogs; dogs were seized.,Not Family
+169,Betty Ann Williams killed by neighbor's three dogs; owner had a history of issues.,Not Family
+170,Dog owner killed by the same dogs that killed Ping Guo; confirmed by DNA analysis.,Not Family
+171,Avery attacked and killed by relative's dogs; dogs euthanized.,Family Dog
+172,Highly aggressive dog attacked 3 people; dog shot by police.,Not Family
+173,Boy attacked by roommate's aggressive dogs.,Not Family
+174,"Two men attacked by a dog; one died, the other injured.",Not Family
+175,18-month-old boy bitten in the face by family dog; dog euthanized.,Family Dog
+176,Young girl attacked by her father's dog.,Family Dog
+177,Woman attacked by loose dog while tending to flowers and chickens; dog was shot.,Unknown
+178,Pregnant woman blamed hunting hounds for the death; DNA testing cleared those dogs.,Unknown
+179,14-month-old baby attacked by family Rottweiler and Jack Russell; both dogs involved.,Family Dog
+180,18-month-old boy bitten to death by family dog; dog euthanized.,Family Dog
+181,"Woman killed by the family pet named ""Baby.""",Family Dog
+182,Dogs in a fenced-in area; unclear how victim accessed it.,Unknown
+183,"Two-and-a-half-year-old boy killed by the family dog named ""Sultan.""",Family Dog
+184,19-month-old boy attacked by a dog while waiting for the elevator.,Not Family
+185,Pregnant mother unable to save daughter from a dog bite; daughter died from injuries.,Family Dog
+186,18-month-old girl bitten by a family member's dog; died from injuries.,Family Dog
+187,Young woman attacked by her own dogs; dogs shot by first responders.,Family Dog
+188,17-month-old girl bitten by her uncle's dog.,Family Dog
+189,Child bitten by a dog near a pond; injured carotid artery.,Unknown
+190,2-year-old girl attacked by the dog of visitors.,Not Family
+191,Two dogs escaped and attacked a man in his garden.,Not Family
+192,Two-month-old infant killed in his cradle by the family dog.,Family Dog
+193,Man killed by dogs near his property.,Not Family
+194,Woman attacked by a dog in her house.,Not Family
+195,32-year-old homeless man killed by his own dog.,Family Dog
+196,Two-month-old baby died following a bite.,Family Dog
+197,Victim attacked by 5 dogs that escaped through a fence hole; dogs euthanized.,Stray Dog
+198,Man found covered in blood; dog that attacked was shot by police.,Not Family
+199,Victim bitten by neighbor's four dogs while mowing lawn; severe injuries led to death.,Not Family
+200,Woman attacked by family dog while carrying a package; dog euthanized.,Family Dog
+201,Cyclist collided with a dog; dog did not run directly at cyclist.,Unknown
+202,"Family dog named ""Kowu"" bit infant in the head; infant died later in hospital.",Family Dog
+203,"Two victims found covered in blood; dog named ""Chico"" was euthanized.",Family Dog
+204,Kangal attacked victim on a footpath; dog killed by police.,Not Family
+205,Son found father bitten to death by his own dog.,Family Dog
+206,Woman killed by the family dog; dog euthanized.,Family Dog
+207,"Boy attacked by family dog named ""Spike""; dog shot by police.",Family Dog
+208,"Girl attacked by her aunt's dogs; all dogs euthanized, aunt charged with negligent homicide.",Not Family
+209,"Family dog ""Bingo"" attacked a child; assessed and rehomed.",Family Dog
+210,Family member's dog attacked a child; dog euthanized.,Not Family
+211,Woman bitten by a dog while the owner was on vacation; reason for attack unclear.,Unknown
+212,Victim killed in her apartment by her dog; police officer killed the dog.,Family Dog
+213,"Woman bitten by dog named ""Brando"" while bringing water; dog euthanized.",Family Dog
+214,Family dog knocked over a stroller and killed the infant; father shot the dog.,Family Dog
+215,Man injured by a Labrador mix while protecting a Jack Russell Terrier; bled to death.,Not Family
+216,Child bitten by unleashed female dog and male dog while walking in the forest; child died.,Family Dog
+217,Girl bitten several times by the family dog and died.,Family Dog
+218,Two dogs attacked children in a schoolyard; dogs shot by police.,Stray Dog
+219,Pensioner attacked by Rottweiler; dog had previous attacks; alleged negligent homicide.,Stray Dog
+220,Boy attacked by dogs while held by uncle; family dogs previously non-aggressive.,Family Dog
+221,Man attacked by 3 loose dogs while walking; died from injuries.,Stray Dog
+222,"Victim attacked by dog named ""Demon"" while walking.",Not Family
+223,Victim attacked while feeding her brother's dog.,Family Dog
+224,Woman attacked in her home by family dogs.,Family Dog
+225,"Victim attacked by neighbor's dogs ""Zeus"" and ""Kira.""",Not Family
+226,Woman attacked by guarding dogs of a sheep herd; dogs initially seemed friendly.,Stray Dog
+227,Victim attacked by her five pet dogs in her flat.,Family Dog
+228,One-year-old attacked by grandfather's two dogs.,Family Dog
+229,Child attacked by one of the family's two dogs while playing unattended in a pool.,Family Dog
+230,Man attacked at his workplace by his employer's dogs.,Family Dog
+231,Victim bitten by dogs earlier in the day; died from injuries.,Not Family
+232,Young boy attacked by two dogs on the street; died two days later.,Not Family
+233,Woman attacked by neighbor's dogs that jumped her high fence.,Not Family
+234,Victim attacked to death by his three dogs in his house.,Family Dog
+235,Victim attacked by 2 or 3 dogs; died five days later in hospital.,Not Family
+236,Victim killed by two dogs guarding a tavern.,Stray Dog
+237,Woman attacked by three dogs that escaped through a damaged fence.,Stray Dog
+238,Young boy attacked by a dog that escaped and jumped a fence; died at the scene.,Not Family
+239,Three-year-old boy killed by two pit bulls.,Not Family
+240,Young victim attacked by two family dogs.,Family Dog
+241,Toddler attacked by a dog that had previously killed two other dogs; died later in hospital.,Stray Dog
+242,Young girl killed by a dog that entered the yard and attacked children.,Stray Dog
+243,Girl attacked by a dog that escaped and was playing in the street.,Stray Dog
+244,Boy attacked by two dogs while playing rugby.,Stray Dog
+245,Young victim attacked by a dog that jumped through a window into the home.,Not Family
+246,Family dog attacked while victim and her husband were getting into their car; victim died at the scene.,Family Dog
+247,Boy attacked by one of three dogs while visiting a friend's house.,Not Family
+248,Victim found dead with bite wounds; three dogs seized nearby.,Stray Dog
+249,Victim killed by neighbor's dog that kept jumping over the fence.,Not Family
+250,Victim attacked by dogs after wandering into a tavern's backyard.,Stray Dog
+251,Two dogs attacked victim while walking by.,Stray Dog
+252,Victim attacked by two dogs.,Not Family
+253,6-month-old baby attacked at grandmother’s house.,Family Dog
+254,"Victim attacked by family dog ""Nero.""",Family Dog
+255,Child killed and sister critically injured by pet dogs while playing outside grandmother's house.,Family Dog
+256,Girl severely injured by a dog that broke free of its chain at a neighbor's house.,Not Family
+257,Victim shaken violently by family dog that broke free of its chain; dog was euthanized.,Family Dog
+258,Victim and cousin attacked by dogs jumping over a fence while swimming in a pond.,Not Family
+259,Victim attacked by the family dog; dog euthanized.,Family Dog
+260,Three family dogs attacked victim in the backyard; victim died at the scene.,Family Dog
+261,"Family pet ""Butch"" attacked and killed the wife; husband injured while trying to help.",Family Dog
+262,Two dogs escaped from neighbor's property and attacked victim; victim died after a week in hospital.,Not Family
+263,Victim chased by five dogs during a phone call with her mother.,Stray Dog
+264,Victim attacked by a dog she tried to place in shelters; lost so much blood that she died.,Stray Dog
+265,Young man attacked by his own dog; dog taken to an animal care center.,Family Dog
+266,32-year-old man died after being attacked by a friend's dog while walking.,Not Family
+267,Victim killed by Presa Canario; lived alone and was a breeder of Pit Bulls and Presa Canarios.,Family Dog
+268,Victim died from complications of an untreated dog bite.,Stray Dog
+269,Victim died from complications after being bitten by a rabid dog.,Stray Dog
+270,Victim died after being bitten by a rabid dog.,Stray Dog
+271,Servant died of rabies from a rabid dog bite; salt water treatment was ineffective.,Stray Dog
+272,Butcher was fatally injured by his dog after provoking it; dog had a history of killing cats.,Not Family
+273,Skinner died after being attacked by his watchdogs; circumstances unclear.,Not Family
+274,Victim killed by a relative's watchdog while walking with children; dog later shot.,Not Family
+275,Elderly woman killed by landlady's dog; death initially concealed.,Family Dog
+276,Victim died from injuries while separating fighting dogs; dogs were put down.,Family Dog
+277,Victim attacked by his dog in the backyard; dog refused to let go despite intervention.,Family Dog
+278,Victim attacked by uncle's dogs in the garden; dogs kept in poor condition.,Family Dog
+279,Five-day-old baby found dead from dog bites; severe head injuries.,Stray Dog
+280,Victim mauled by two Rottweilers while on holiday; dogs were put down.,Not Family
+281,Victim savaged to death by his pet dog; wife tried to intervene.,Family Dog
+282,Victim attacked by a dog while building a snowman; identified as pit bull.,Not Family
+283,Month-old baby killed by bull terrier; dog put down after the attack.,Not Family
+284,Boy severely injured by dogs after climbing a fence; died two weeks later.,Not Family
+285,"Victim had a seizure; dog attempted to lift her, resulting in her death.",Family Dog
+286,"Victim mauled to death by his pet dog, possibly related to a seizure.",Family Dog
+287,Baby attacked by one of the two household dogs; the dog had a “nervous temperament.”,Family Dog
+288,Baby attacked by pub's guard dogs after they entered through an open fire escape; dogs were put down.,Not Family
+289,Victim killed by a dog inside the house; the dog had a history of aggression.,Not Family
+290,Boy mauled to death by a large dog while being carried by a 7-year-old; dog was shot dead.,Not Family
+291,Man died after being attacked by his own dog; dog had never shown aggression before.,Family Dog
+292,Victim died from septicemia after being bitten on the elbow.,Stray Dog
+293,Three-and-a-half-month-old baby attacked by two dogs; severe neck injuries.,Family Dog
+294,Victim attacked while separating fighting dogs; received multiple bites and lost blood.,Not Family
+295,Victim attacked by a large dog in his house; dog was shot by police.,Family Dog
+296,Eighteen-month-old child mauled by uncle's dog; dog was put down.,Family Dog
+297,Victim killed by a dog; severe head and neck injuries; multiple dogs involved.,Not Family
+298,Victim died from injuries inflicted by an escaped neighbor's dog; dog owner arrested.,Not Family
+299,Victim killed by daughter's dogs while feeding them; multiple dogs seized.,Family Dog
+300,"Child attacked in cot by a family dog; dog was described as ""small but vicious.""",Family Dog
+301,Lomas-Anderson was visiting her friend when four of her friend's five dogs attacked her. The dogs were shot dead by police.,Not Family
+302,Clarke was attacked in his garden by a 70 lb dog that was aggressive and eventually shot and killed. The dog's owners were charged under the Dangerous Dogs Act.,Not Family
+303,Branson was attacked by a dog from a rehoming center that had been through several owners. The attack led to her death.,Family Dog
+304,Bennett was attacked by dogs at home. The dogs' owner was guilty of owning prohibited dogs.,Family Dog
+305,"Corless was attacked by a pit bull terrier. The dog was put down, and the owner was jailed and prohibited from owning dogs.",Family Dog
+306,Mullane was attacked by family pets while in her pram. Both dogs were euthanized.,Family Dog
+307,"Collins was repeatedly bitten by a police dog, leading to her death. The dog had prior biting incidents.",Not Family
+308,Caygill was found dead from multiple dog bites. The dog involved was seized and put down.,Not Family
+309,"Wotherspoon was attacked by a pit bull that broke free from its cage. The dog was put down, and the owners were sentenced and banned from owning dogs.",Family Dog
+310,Greve died after being bitten in the neck and face by her grandson's dog.,Family Dog
+311,Young was mauled by a terrier that had not been introduced to the newborn. The dog's owner was convicted of being in charge of a dangerous dog.,Family Dog
+312,George contracted sepsis from a bite by a mixed breed dog while trying to save his own dog. He died from complications.,Not Family
+313,McCall was bitten by his pet dog during play and died from subsequent infection.,Family Dog
+314,Hewitson was attacked by the family dog during an epileptic seizure. The dog had attacked before.,Family Dog
+315,Hodgson was mauled by his own dog while unconscious. The dog was previously involved in attacks.,Family Dog
+316,Ellam was attacked by a neighbor's dog that had a history of aggression. The dog's owner was jailed.,Not Family
+317,"Neal was attacked by a rescue dog, leading to his death. The dog was euthanized.",Not Family
+318,Darby's mother tried to save her children from an aggressive rescue dog owned by family. The dog was put down.,Family Dog
+319,Perivoitos was attacked and killed by his pet dog after an epileptic seizure. The dog had drugs in its system.,Family Dog
+320,Busa was attacked and killed by the family dog.,Family Dog
+321,"McNulty was attacked by his parents' two pet dogs at home, leading to his death. Both dogs were euthanized.",Family Dog
+322,MacRitchie was attacked and killed by a dog left alone in a caravan. The dog had a history of attacks.,Not Family
+323,Jennings was bitten by a loose dog while breaking up a fight. She died from sepsis.,Not Family
+324,"Stanley was mauled by her own two dogs. Neighbors intervened, and the dogs were eventually euthanized.",Family Dog
+325,Halstead died from injuries sustained during an epileptic seizure while unconscious after a dog attack.,Family Dog
+326,Ellis-Jynes was mauled to death by a Chow Chow-Alsatian cross at his home. The dog's owner was sentenced.,Family Dog
+327,Ladlow died after being attacked by a dog her brother bought to improve her mental health.,Not Family
+328,Downer was attacked by dogs that escaped from a neighbor's garden. The owner of the dogs was convicted under the Dangerous Dogs Act.,Not Family
+329,Lis was killed by an attack on his face and neck by a large and powerful dog while visiting a school friend's house.,Not Family
+330,Watts was attacked at the kennels he owned by a dog previously seized by the police. The dog’s owner was banned from keeping animals.,Not Family
+331,"Multiple dogs involved, and there’s no specific information on whether they were stray or family dogs.",Unknown
+332,The dog was one of many huskies being exercised and was not identified as a family dog.,Not Family
+333,"The dog was owned for only a week, not enough time to establish it as a family dog.",Not Family
+334,"The dogs were from a breeding facility, not considered family pets.",Not Family
+335,No specific details on the dog’s background.,Unknown
+336,The dog belonged to the victim’s daughter-in-law.,Family Dog
+337,Specific details about the dog's ownership or background are not provided.,Unknown
+338,"The dog was a trained XL Bully, but its background and ownership details are not clear.",Unknown
+339,"Multiple dogs involved, but they were not clearly identified as family dogs.",Not Family
+340,The dog was seized by police; its family background is not specified.,Not Family
+341,"Involves multiple dogs, and there's no detail about whether they were strays or family pets.",Unknown
+342,"The dog was newly acquired by the family and was not a banned breed, but not enough information to classify it otherwise.",Family Dog
+343,No details provided on whether the dog was a family pet or stray.,Unknown
+344,Specific details about the dog’s ownership or background are not provided.,Unknown
+345,"The dog was initially suspected of being a banned breed, but it was later confirmed not to be, and it was owned by the family.",Family Dog
+346,Two dogs involved were family pets and were kept in secure kennels.,Family Dog
+347,The dogs involved were not identified as stray or family pets; only their breed was mentioned.,Unknown
+348,"The dog was a puppy belonging to the victim, and the second dog involved was also mentioned.",Family Dog
+349,The dogs were previously of concern for breed and temperament; they were not identified as family pets.,Not Family
+350,The dog involved was part of the victim's family.,Family Dog
+351,"The dog was the neighbor's pet, and the wound was initially treated by the family.",Family Dog
+352,The dog was a pet of the victim.,Family Dog
+353,The dog’s background and ownership details are not provided.,Unknown
+354,"The attack involved a rabid dog, with no specific details on whether it was a stray or family dog.",Unknown
+355,The dog was a new family pet that attacked the baby.,Family Dog
+356,The specific details about the dog’s background or ownership are not provided.,Unknown
+357,The background or ownership of the dog involved is not specified.,Unknown
+358,"The puppy was a wedding gift, but its status as a stray or family pet is not detailed.",Unknown
+359,"The dog was still at large, with no details on whether it was a stray or family pet.",Unknown
+360,The dogs involved were not identified as family or stray dogs.,Unknown
+361,"The dogs were guard dogs, but their ownership and background are not specified.",Unknown
+362,"The dogs were found and killed by police, but their ownership and background are not detailed.",Unknown
+363,The dog was a working dog on a family vacation farm.,Family Dog
+364,The dog was a stray that had attacked multiple children previously.,Stray Dog
+365,"The dogs were part of a pack that escaped, but their specific ownership status is not provided.",Unknown
+366,The woman’s pet dogs were involved in the attack.,Family Dog
+367,"The attack involved a pack of dogs, but there’s no specific information about whether they were strays or family pets.",Unknown
+368,The dog was a pet of the victim's grandparents.,Family Dog
+369,"The dog was chained in the backyard of the neighbor's duplex, indicating it was likely a family dog.",Family Dog
+370,The dog was a pet of the victim.,Family Dog
+371,"The dogs involved were neighbor's dogs, but specific details about their ownership status are not provided.",Not Family
+372,The dog was a family pet.,Family Dog
+373,The dog was the family pet.,Family Dog
+374,The dog was the family pet.,Family Dog
+375,The dog was a family pet.,Family Dog
+376,No specific details about the dogs’ ownership or background are provided.,Unknown
+377,"The dogs were the friend’s family pets, but the exact relationship to the victim is less clear.",Not Family
+378,The dogs involved were the victim’s pets.,Family Dog
+379,"The dog involved was a neighbor's, but its background or ownership status is not provided.",Unknown
+380,"The dogs involved were neighbor's dogs, but their status as family or stray dogs is not detailed.",Unknown
+381,"The dogs were guard dogs usually kept enclosed, but the attack involved a break in their containment.",Not Family
+382,"The dogs were the victim’s son's, living in the household.",Family Dog
+383,"The dog was a neighbor’s pet, but its status as a family pet or stray is not detailed.",Not Family
+384,"The chained dog was owned by Michael Barry, the owner was charged with involuntary manslaughter.",Family Dog
+385,The dogs involved were the neighbor's pets.,Not Family
+386,"The dogs involved were owned by the dogs' owner, but specific details about their status as family or stray are not provided.",Not Family
+387,The dogs were the homeowner's pets.,Family Dog
+388,"The dogs were loose, but their ownership or background is not detailed.",Unknown
+389,The dogs were not specified as family or stray; they were left loose by the owner.,Unknown
+390,The dogs were staying with the neighbor and were not identified as family pets.,Not Family
+391,The dog was adopted shortly before the attack and its previous background is not specified.,Unknown
+392,The dogs were neighbors' and were running free.,Not Family
+393,The dog was a family pet that was chained.,Family Dog
+394,"The dogs were the daughter’s pets, though there was a claim they were strays which was disproven.",Family Dog
+395,The dogs involved were the victim's pets.,Family Dog
+396,The dog was a family pet.,Family Dog
+397,"The dogs belonged to the victim's daughter, who had prior issues with unlicensed and unrestrained dogs.",Family Dog
+398,The dogsitting situation does not specify the ownership status of the dog involved.,Unknown
+399,The dog was a family pet.,Family Dog
+400,The dog was recently adopted from a relative.,Family Dog
+401,The dogs’ ownership status is not specified; they were involved in the attack on the victim.,Unknown
+402,The dogs involved were not specified as family or stray; they were multiple dogs that attacked.,Unknown
+403,The dogs had previously attacked others but their ownership or background is not detailed.,Unknown
+404,The dogs involved were not identified as family pets.,Not Family
+405,"The attack involved a dog from the step-grandmother’s home, but specific details about the dog's status are not provided.",Unknown
+406,The dog was the family pet.,Family Dog
+407,"The dogs were half-sister's pets, implying family ownership.",Family Dog
+408,The dog was a family pet.,Family Dog
+409,The dogs' ownership status is not specified; the incident involved an attack while walking to a bus stop.,Unknown
+410,The dog was a family pet.,Family Dog
+411,"The dogs were the victim’s pets, though they were reported to have attacked and consumed the body.",Family Dog
+412,"The pit bull was owned by a kennel client, not the victim.",Not Family
+413,The dog involved was a family pet.,Family Dog
+414,The dog was a family pet.,Family Dog
+415,The dogs were neighbor's pets.,Not Family
+416,The dog was a family pet.,Family Dog
+417,The police dog involved was a working dog but had the permission of the handler to be on the premises.,Family Dog
+418,The dogs involved were loose and not specified as family or stray.,Not Family
+419,The ownership status of the dogs involved in the attack is not specified.,Unknown
+420,The dog involved was a family pet with prior bite incidents.,Family Dog
+421,The dogs were a pack and not specified as family pets.,Not Family
+422,The dog was a family pet.,Family Dog
+423,"The dog was not specified as a family pet, but as one that became agitated.",Not Family
+424,The dog was a family pet.,Family Dog
+425,The dogs dug under a fence and were not specified as family pets.,Not Family
+426,The dog involved was a family pet.,Family Dog
+427,The dogs were neighbor's pets being pet-sat.,Not Family
+428,The dogs were a pack and not specified as family pets.,Not Family
+429,The dog involved was the victim’s family pet.,Family Dog
+430,The dogs involved were not specified as family pets.,Not Family
+431,The dogs' ownership status is not specified; they were involved in a mauling.,Not Family
+432,The dogs were neighbor's pets.,Not Family
+433,The dog involved was the grandparent’s pet.,Family Dog
+434,The dog was from an animal shelter but its ownership or background is not specified.,Unknown
+435,"The dog was a family pet, though being watched by the great-grandmother who was renting a room.",Family Dog
+436,The dogs involved were not identified as family pets.,Not Family
+437,The dogs escaped from a neighbor’s fenced backyard.,Not Family
+438,The dogs were the victim’s pets.,Family Dog
+439,The dogs were neighbor's pets and had a history of aggressive behavior.,Not Family
+440,The dogs were being dog-sat but specific ownership status is not provided.,Unknown
+441,The dog was a family pet.,Family Dog
+442,"The dogs escaped from a nearby house, not specified as family pets.",Not Family
+443,The dogs involved were the victim’s pets.,Family Dog
+444,The dogs were strays or had escaped; not specified as family pets.,Not Family
+445,The dogs were identified as strays in the area.,Stray Dog
+446,The dogs involved were the family pets of the Bennard siblings.,Family Dog
+447,The dogs' ownership status is not specified; they were being held by animal control.,Unknown
+448,The dogs were aggressive strays that were shot by authorities.,Not Family
+449,"The dog was a neighbor's pet, not a family pet.",Not Family
+450,The dogs involved were neighbor's pets.,Not Family
+451,The dogs escaped from a neighbor's yard and were involved in previous incidents.,Not Family
+452,The dog was a family pet at a family member's house.,Family Dog
+453,The dogs were not specified as family pets; they were being watched temporarily.,Not Family
+454,The dogs were not identified as family pets but were involved in the incident while dog-sitting.,Not Family
+455,The two loose dogs were not specified as family pets.,Not Family
+456,The dogs were a pack and not specified as family pets.,Not Family
+457,The dogs' ownership status is not specified; they attacked when McKenzie left his house.,Not Family
+458,The dogs were neighbor's pets that attacked.,Not Family
+459,The dogs were neighbor's pets that had escaped.,Not Family
+460,The dogs were the victim’s son's pets.,Family Dog
+461,The dog involved was a family pet.,Family Dog
+462,The dog involved was a family pet.,Family Dog
+463,"The dogs belonged to a family friend, not the victim's family.",Not Family
+464,The dogs were loose and came into the backyard from outside sources.,Not Family
+465,The dogs were a breeding group and were not specified as family pets.,Not Family
+466,The dog was a neighbor's pet.,Not Family
+467,The dogs were from the neighbor's dog pen.,Not Family
+468,The dog involved was a family pet.,Family Dog
+469,The dogs were not specified as family pets but were under the care of a babysitter.,Not Family
+470,The dog involved was a family pet.,Family Dog
+471,The dog involved was a family pet.,Family Dog
+472,The dog involved was a family pet.,Family Dog
+473,The Pit Bull was not specified as a family pet but was an aggressive breed.,Not Family
+474,The dogs were not specified as family pets and were involved in multiple attacks.,Not Family
+475,The dog involved was not specified as a family pet.,Not Family
+476,The dogs were neighbor's pets and involved in an attack.,Not Family
+477,The dog involved was a family pet.,Family Dog
+478,The dog was a neighbor's pet.,Not Family
+479,"The dog was an employer's pet, not specified as a family pet.",Not Family
+480,The Pit Bull was kept tied up and was not specified as a family pet.,Not Family
+481,The dog involved was a family pet.,Family Dog
+482,The three dogs escaped from a neighbor's yard and attacked.,Not Family
+483,The dog involved was the man's pet.,Family Dog
+484,The Pit Bull was not specified as a family pet and was involved in the death of the baby.,Not Family
+485,The two Pit Bulls were the victim's sons' pets.,Family Dog
+486,The dog was a neighbor's pet temporarily entrusted to the victim.,Not Family
+487,The three dogs involved were not specified as family pets.,Not Family
+488,The dog was previously involved in attacks and had a history of aggression.,Not Family
+489,The dog was not identified as a family pet and attacked both the man and the woman.,Not Family
+490,The dog involved was a friend's pet.,Not Family
+491,The dogs were not identified as family pets; they attacked while the girl was alone.,Not Family
+492,The dog involved was the grandparents' pet.,Family Dog
+493,The loose dog that attacked was not specified as a family pet.,Not Family
+494,The dog involved was not identified as a family pet and attacked severely.,Not Family
+495,The dog involved was a family pet and had been with the family since puppyhood.,Family Dog
+496,The dog named Aron was a family pet and attacked due to being pulled by the tail.,Family Dog
+497,The pack of stray dogs was not identified as family pets.,Not Family
+498,"The dogs involved were a breeding pair and a puppy, not specified as family pets.",Not Family
+499,The dog involved was a family pet and attacked the child.,Family Dog
+500,The dogs were not identified as family pets; the girl was attacked while in the kennel.,Not Family
+501,The dog involved attacked both the owner and a second woman who tried to help.,Not Family
+502,The dog involved was a family pet and attacked the young boy.,Family Dog
+503,The three dogs involved were kept at the victim’s house.,Family Dog
+504,The dogs involved were kept by the owner and were not identified as family pets.,Not Family
+505,The dogs involved attacked the girl when she went into the yard searching for her mother.,Not Family
+506,The dogs involved were part of a larger group kept by someone who had 15 to 20 sled dogs.,Not Family
+507,The two dogs that attacked were not specified as family pets and were involved in a schoolyard attack.,Not Family
+508,The ten-year-old dog was a family pet.,Family Dog
+509,The family pet named Killer attacked the toddler in front of the family.,Family Dog
+510,The guard dog that attacked was a family pet.,Family Dog
+511,The dogs escaped through a fence and attacked; they were not identified as family pets.,Not Family
+512,The dog involved was not identified as a family pet; the girl was attacked by a dog in a hospital context.,Not Family
+513,The dogs belonged to the landlord and were not specified as family pets.,Not Family
+514,The dogs involved were the victim's own dogs.,Family Dog
+515,The dogs that attacked were escaped and not specified as family pets.,Not Family
+516,The dog involved was the owner's pet but not identified as a family pet in the context of the repair incident.,Not Family
+517,"The dog involved was the employer's pet, not specified as a family pet.",Not Family
+518,The dog that injured five people was not identified as a family pet.,Not Family
+519,The three dogs were not identified as family pets and were involved in the attack after being released.,Not Family
+520,The two dogs that attacked were not specified as family pets and had a history of previous bites.,Not Family
+521,The three dogs involved were not identified as family pets and had previously killed another person.,Not Family
